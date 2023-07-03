@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=All%20we%20have%20is%20now.&fontSize=60&animation=fadeIn&fontAlignY=38&desc=jeonghoon's%20Github%20˙ᵕ˙&descAlignY=54&descAlign=68)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Work+Sans&weight=500&pause=1000&color=111111&repeat=false&width=435&lines=Hi%2C+I'm+Jeonghoon!)](https://git.io/typing-svg)
 
+<img src="https://github.com/baegjhoon/baegjhoon/blob/output/github-contribution-grid-snake.svg"/>
+
 <!--
 **baegjhoon/baegjhoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
