@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=80&section=header&text=&fontSize=90)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Work+Sans&pause=2000&color=111111&width=435&lines=Hi%2C+I'm+Jeonghoon!+%CB%99%E1%B5%95%CB%99)](https://git.io/typing-svg)
 
 - 안녕하세요! 프론트엔드 개발자를 지망하는 백정훈입니다.
