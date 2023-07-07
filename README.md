@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Work+Sans&pause=2000&color=111111&width=435&lines=Hi%2C+I'm+Jeonghoon!+%CB%99%E1%B5%95%CB%99)](https://git.io/typing-svg)
 
+- 안녕하세요! 프론트엔드 개발자를 지망하는 백정훈입니다.
+- **`프론트엔드, 백엔드, UI/UX`**  폭넓은 관심사를 가지고, 보다 원활한 커뮤니케이션 능력을 갖기 위해 공부하고 있습니다. 
+
 ---
 
 <h2 align=center> 📚 Skills </h2>
